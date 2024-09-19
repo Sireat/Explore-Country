@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Country Information Finder is a web application that allows users to search for and view information about countries worldwide. Users can search by country name, filter by region, and view details such as the country's flag, capital, population, and languages.
+The Country Information Finder is a web application that allows users to search for and view information about countries worldwide. Users can search by country name, filter by region, and view details such as the country's flag, capital, population, and languages. and look the whole project here https://explore-country.vercel.app/ 
 
 ## Features
 
