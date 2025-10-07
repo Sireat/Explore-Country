@@ -13,7 +13,7 @@ let currentRegion = ''; // Track the currently selected region
 window.onload = displayAllCountries;
 
 function displayAllCountries() {
-    fetch('https://restcountries.com/v3.1/all')
+    fetch('https://restcountries.com/v3.1/africa')
         .then(response => {
             if (!response.ok) throw new Error('Failed to fetch countries.');
             return response.json();
